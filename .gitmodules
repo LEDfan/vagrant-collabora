@@ -1,0 +1,24 @@
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib
+[submodule "modules/yum"]
+	path = modules/yum
+	url = https://github.com/voxpupuli/puppet-yum
+[submodule "modules/openssl"]
+	path = modules/openssl
+	url = https://github.com/ledfan/puppet-openssl
+[submodule "modules/apache"]
+	path = modules/apache
+	url = https://github.com/puppetlabs/puppetlabs-apache
+[submodule "modules/concat"]
+	path = modules/concat
+	url = https://github.com/puppetlabs/puppetlabs-concat
+[submodule "modules/collabora"]
+	path = modules/collabora
+	url = https://github.com/LEDfan/puppet-collabora
+[submodule "modules/profile_openssl"]
+	path = modules/profile_openssl
+	url = https://github.com/LEDfan/puppet-profile_openssl
+[submodule "modules/firewall"]
+	path = modules/firewall
+	url = https://github.com/puppetlabs/puppetlabs-firewall
